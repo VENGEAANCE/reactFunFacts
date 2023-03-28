@@ -1,10 +1,12 @@
 # reactFunFacts
 
-# My Awesome Project
+<a href="https://react-fun-facts-iota.vercel.app/">
+<img src="./src/images/rfactssc.png" alt="thumbnail">
+</a>
 
 Built this project to put the basics of React to practice.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://react-fun-facts-iota.vercel.app/
 
 **Tech used:** HTML, CSS, JavaScript, React
 
