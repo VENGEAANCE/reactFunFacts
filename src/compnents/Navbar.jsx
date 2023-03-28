@@ -1,5 +1,5 @@
 import React from "react"
-import reactLogo from '../images/react-icon.svg'
+import reactLogo from '../images/react-icon.png'
 
 export default function Navbar() {
     return (
